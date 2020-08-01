@@ -1,1 +1,1 @@
-# SmartThemometer
+# SmartThermometer
